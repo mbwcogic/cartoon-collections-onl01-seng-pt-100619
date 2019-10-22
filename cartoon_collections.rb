@@ -11,11 +11,11 @@ def summon_captain_planet(array)# code an argument here
   # Your code here
 end
 
-def long_planeteer_calls(array) # code an argument here
-    array.any? { |array| array.length > 4}
+#def long_planeteer_calls(array) # code an argument here
+    #array.any? { |array| array.length > 4}
  
   # Your code here
-end
+#end
 
 def find_the_cheese(array)# code an argument here
  array_new = %w[gouda cheddar camembert]
