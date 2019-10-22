@@ -18,7 +18,7 @@ def long_planeteer_calls(array) # code an argument here
 end
 
 def find_the_cheese(array)# code an argument here
- array_new 
+ array_new = %w[gouda cheddar camembert]
   
   array.find do |cheese|
   array_new
