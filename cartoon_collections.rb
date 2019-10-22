@@ -6,7 +6,7 @@ end
 end
 
 def summon_captain_planet(array)# code an argument here
-
+    array.
 
   # Your code here
 end
